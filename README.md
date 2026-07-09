@@ -29,8 +29,7 @@ score is shown at the top of the screen.
 
 ## Build / itch.io
 
-The playable build is hosted on itch.io — see the assignment submission for the
-link.
+The playable build is hosted on itch.io — (https://bcar243.itch.io/mit-game-design-soccer)
 
 ## Repository notes
 
